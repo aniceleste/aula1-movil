@@ -2,4 +2,8 @@ public class teste{
     public static void (artigs [] args){
         System.out.println("Versión dos")
     }
+    public void teste(){
+        //kskakljdkl
+        //5567686
+    }
 }
